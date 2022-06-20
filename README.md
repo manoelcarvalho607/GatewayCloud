@@ -1,6 +1,6 @@
 # Objetivos
 - Construir uma experiência para atrair leads para um negócio
-- Projeto digno de portfólio
+- Projeto modelo de portfólio
 
 
 ## Requisitos
